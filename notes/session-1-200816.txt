@@ -9,6 +9,38 @@ Metodología
     * (revisar documentación de suntone)
     - Características
     ** (Usar un video para demostración de la aplicación)
+    ** (Enfocarse sobre la parte que yo desarrollé)
+Entrega:
+  - Metodología del proyecto
+  - Metodología de software
 
+Planteamiento del problema
+  (1-2 cuartillas)
+  ¿Qué problema?
+    [Uso de los expedientes catastrales para análisis de trámites]
+    [Tiempo de traslado, daños, extravíos]
+    Marco referencial: dónde, desde cuándo, detalles
+  Plantear la solución
+  Pregunta de investigación -> Hipótesis
 
+Especificaciones de formato de la tesina:
+  Formato APA 2.0:
+    arial 12, texto normal, justificado
+    título nivel 0, 14, centrados
+    título nivel 1, 12, izquierda, negritas
+    título nivel 2, 12, normal, izquierda, 1 tab
+    interlineado 1.5
+    márgenes: sup, inf, der, izq 2.5
+    núm. de pág. inf. izq. arial 12
+    notas al pie, arial 10
+    cita textual larga, arial 10
+    texto en inglés cursiva
+    énfasis: negrita o subrayado, no usar comillas
+    siglas: poner entre paréntesis el significado, sólo la primera vez que usan
+    palabras de otros idiomas, también se pone su traducción entre paréntesis
+    código: arial 10, interlineado simple; o usar imagen en la que el texto se acerque a arial 10
+    imágenes: centrada, con pie de imagen, numerada como "Figura X. Descripción...". Si es originaria de otro medio, agregar enseguida: "Fuente: <<datos del libro>> | <<url>>. Se referencían antes.
+    tablas: con pie "Tabla X. Descripción...", contenido arial 10 e interlineado simple. Se referencían antes.
 
+  Fuentes:
+    - libros (aunque sea digital, indicarlo como si fuera un libro físico y usar la edición más reciente, no usar ediciones anteriores al 2006). Usar herramienta APA de Word (también en libreOffice)
