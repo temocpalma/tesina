@@ -1,0 +1,14 @@
+Estructura de la tesina
+Metodología
+  (Fecha límite para entregar, 3 meses despúes del fin del curso)
+  - Definición precisa de objetivos
+  - Lenguaje no coloquial, en tercera persona
+  - Enfoque cuantitativo
+  - Sujeto es el sistema como tal, objeto: lo que manipula el sistema
+  - Metodología de software
+    * (revisar documentación de suntone)
+    - Características
+    ** (Usar un video para demostración de la aplicación)
+
+
+
