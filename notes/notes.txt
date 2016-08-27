@@ -51,12 +51,20 @@ Especificaciones de formato de la tesina:
 ic981826@hotmail.com
 
 Planteamiento del problema
-- cómo surgió, dónde, implicaciones,
-- pregunta de investigación: de acá sale el objetivo general
+  - cómo surgió, dónde, implicaciones,
+  - pregunta de investigación: de acá sale el objetivo general
+  - En mi caso, poner en tiempo pasado.
 
 Justificación (1-2 cuartillas)
-- beneficios -> quién, cómo, cuánto
-- Referir los datos en tiempo pasado, dado que ya está implementado.
+  - beneficios -> quién, cómo, cuánto
+
+Alcances: hasta dónde abarcará el proyecto
+  - Acá debo poner que el proyecto de la tesina abarcará sólo la parte de la digitalización.
+
+Limitantes
+  - cuáles son las limitaciones (recursos técnicos, financieros, tiempo)
+  - En mi caso no aplica
+
 
 Cap. 1: Marco teórico
 Cap. 2: Metodología
