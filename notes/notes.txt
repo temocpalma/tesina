@@ -44,3 +44,22 @@ Especificaciones de formato de la tesina:
 
   Fuentes:
     - libros (aunque sea digital, indicarlo como si fuera un libro físico y usar la edición más reciente, no usar ediciones anteriores al 2006). Usar herramienta APA de Word (también en libreOffice)
+
+********************************************************************
+27-08-16
+
+ic981826@hotmail.com
+
+Planteamiento del problema
+- cómo surgió, dónde, implicaciones,
+- pregunta de investigación: de acá sale el objetivo general
+
+Justificación (1-2 cuartillas)
+- beneficios -> quién, cómo, cuánto
+- Referir los datos en tiempo pasado, dado que ya está implementado.
+
+Cap. 1: Marco teórico
+Cap. 2: Metodología
+Cap. 3: Desarrollo
+
+Mínimo 50 cuartillas en total
