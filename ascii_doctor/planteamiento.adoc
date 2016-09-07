@@ -1,0 +1,27 @@
+= PLANTEAMIENTO DEL PROBLEMA
+
+El ICEO (Instituto Catastral del Estado de Oaxaca) es una entidad del Gobierno del Estado de Oaxaca, perteneciente a la Secretaría de Finanzas, la cual se encarga de registrar, además de mantener, la información cualitativa y cuantitativa de los bienes inmuebles que se encuentran dentro del territorio del Estado.
+
+Para realizar dicha tarea, el ICEO ofrece un conjunto de trámites y servicios, con los que los usuarios, particulares o inmobiliarios, pueden integrar o actualizar los datos de sus propiedades.
+
+Cada uno de dichos trámites y servicios, da origen a un expediente, en el que se concentra toda la documentación requerida, así como la generada por el ICEO durante el proceso del mismo, y que, cuando llega a su conclusión, es almacenado en el Archivo Central del Instituto.
+
+Cabe mencionar que las instalaciones del Archivo se encuentran fuera del edificio del ICEO.
+
+Estos expedientes, forman los antecedentes históricos de los bienes inmuebles a través del tiempo y se consideran oficiales. La datos contenidos en ellos son de carácter confidencial, y no se pueden otorgar más que a los titulares registrados y/o acreditados para ello.
+
+Debido a que los procesos de registro y actualización catastral, han sido cambiantes a lo largo de la historia, existen ciertas inconsistencias e irregularidades en la información del padrón.
+
+Esto implica que cuando se recibe una solicitud de trámite o servicio de una propiedad que se encuentra en esas condiciones, es necesario recurrir al Archivo, para buscar los antecedentes respectivos, analizarlos e intentar resolver su situación.
+
+El acceso a los expedientes almacenados, se hacía a través de una solicitud por escrito dirigida al encargado del Archivo. En la solicitud se indicaban algunos datos clave que permitieran la localización del expediente correspondiente. Una vez, que se recibía esta solicitud en el Archivo, se registraba en una hoja de Excel, para fines de bitácora y se procedía a su localización.
+
+Si el expediente era encontrado, se preparaba y se enviaba al personal que lo había solicitado. Si no era encontrado, se respondía por escrito de dicha situación.
+
+Este proceso tardaba al menos una semana, dependiendo de la cantidad de solicitudes de expedientes enviadas al Archivo, afectando el tiempo de atención a las solicitudes de trámites ingresadas al ICEO.
+
+Con fines de hacer un poco más ágil la consulta de los expedientes, las autoridades del ICEO, permitieron realizar solicitudes de manera económica, vía telefónica y por correo electrónico, pero sin dejar de manejarlo en papel. Esto permitió iniciar la búsqueda de los expedientes solicitados casi inmediatamente pero no redujo significativamente el tiempo.
+
+Además de la lentitud del acceso a los antecedentes, el hecho de que el expediente físico saliera de su resguardo, se corría el riesgo de extravío, daño y alteración intencionada o accidental.
+
+Otro inconveniente, era la dificultad de proporcionar información oportuna sobre un expediente prestado, como saber quién lo solicitó y desde cuándo lo tenía en posesión.

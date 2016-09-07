@@ -1,0 +1,14 @@
+= TESINA
+
+== Aplicación para digitalización de expedientes del Instituto Catastral del Estado de Oaxaca
+
+:author: Cuahuthemoc Palma Gutiérrez
+:email: temopalmag@gmail.com.mx
+:revnumber: v1.0
+:revremark: TESINA
+:numbered:
+:icons: font
+
+:leveloffset: 1
+
+include::planteamiento.adoc[]
