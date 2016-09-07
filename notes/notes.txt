@@ -71,3 +71,25 @@ Cap. 2: Metodología
 Cap. 3: Desarrollo
 
 Mínimo 50 cuartillas en total
+
+*******************************************************************
+03-09-16
+
+Metodología del proyecto (2 a 5 cuartillas)
+- Recursos
+  - Financieros:
+  - Humanos: qué personal coadyuvará en la creación del sistema (personal del archivo), equipo de desarrollo
+  - Tecnológicos:
+- Diagrama de gant
+  - Definir tiempos de cada una de las etapas de la construcción del sistema
+- Definición de tareas
+  - Describir brevemente cada una de las etapas mencionadas en el diagrama de gant
+- Tecnologías a utilizar: (brevemente), lenguaje, sgbd, storage, formato de imagen
+- Metodología de Ing. de SW a usar: describirla brevemente.
+
+
+Capítulo 1 Marco Teórico
+
+- Usar numeración para los subtítulos (Ej. 1.1, 1.2, 1.2.1, 1.2.2, 1.3, ...)
+
+
