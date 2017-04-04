@@ -1,0 +1,5 @@
+todos los titulos en arial 12
+margen 3.5, 2.5 los demás
+mover las leyes a anexos
+cambiar marco teórico incluir versiones propias de los conceptos
+
